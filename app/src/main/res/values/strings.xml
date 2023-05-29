@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hw_2_6</string>
+    <string name="select">Выбор фотографии</string>
+    <string name="done">Готово</string>
+    <string name="selected">Выбрано 0 фотографии</string>
+    <string name="selected_photo">Выбранные фотографии</string>
+</resources>
